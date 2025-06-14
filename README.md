@@ -35,7 +35,7 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 Right now, I'm focused on:
 
 - **Full-stack** web development
-- Writing solid, testable code in **Python**, **Javascript** and **Kotlin**
+- Writing solid, testable code in **Python** and **JavaScript**
 - Exploring mobile app development with **Kotlin**
 - Building projects that combine design thinking with engineering practice
 
@@ -54,8 +54,8 @@ I combine **design thinking**, **lean methodologies**, and **facilitation techni
 
 ## 💬 Ask me about:  
 - Moving from **design to development**
-- How to **Streamline collaboration**  
-- Anything **Product innovation, proposition developemnt** and  **lean experimentation**
+- How to **streamline collaboration**  
+- Anything **Product innovation, proposition development** and  **lean experimentation**
 
 ---
 
