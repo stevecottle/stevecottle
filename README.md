@@ -6,9 +6,9 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 
 ## 🧭 My Journey So Far
 
-- 🎨 I started in **UX & Product Design**, helping teams at newspapers, banks, charities, and tech companies turn ideas into products through research, prototyping, and lean experimentation.
-- 🚀 I founded **Funderbolt**, an innovation workshop, helping teams align, ideate, and take action with clarity.
-- 💻 I’ve added to my skill set with **software engineering** to bring ideas to life not just through design, but through code.
+- I started in **UX & Product Design**, helping teams at newspapers, banks, charities, and tech companies turn ideas into products through research, prototyping, and lean experimentation.
+- I founded **Funderbolt**, an innovation workshop, helping teams align, ideate, and take action with clarity.
+- I’ve added to my skill set with **software engineering** to bring ideas to life not just through design, but through code.
 
 ---
 
@@ -43,24 +43,30 @@ Right now, I'm focused on:
 
 ## 💪 Experience:
 
-- 🧠 Solving complex problems through structured innovation
-- 🤝 Fostering team collaboration and alignment
-- 🚀 Turning vague ideas into tangible, testable outcomes
-- 📊 Bringing strategy and delivery together with clarity
+- Solving complex problems through structured innovation
+- Fostering team collaboration and alignment
+- Turning vague ideas into tangible, testable outcomes
+- Bringing strategy and delivery together with clarity
 
 I combine **design thinking**, **lean methodologies**, and **facilitation techniques** to help teams collaborate and cut through the noise.
 
 ---
 
 ## 💬 Ask me about:  
-  - Moving from **design to development**  
-  - How to **Streamline collaboration**  
-  - Anything **Product innovation, proposition developemnt** and  **lean experimentation**
+- Moving from **design to development**
+- How to **Streamline collaboration**  
+- Anything **Product innovation, proposition developemnt** and  **lean experimentation**
 
 ---
 
-## ⚡ Fun fact:  
-I once helped design the UK’s first **NFC loyalty card** for a major restaurant brand — now I’m coding my own ideas into life.
+## 🤯 Highlights from my past work:
+
+- **Nando’s** UK’s first NFC loyalty card  
+- **Pride in London** Most successful parade app
+- **Financial Times** Transition to the new ft.com  
+- **Fortnum & Mason** Revenue driving feature  
+- **HSBC** Current account onboarding journey  
+- **Lloyds Bank** Manual processes turned into digital tools
 
 ---
 
