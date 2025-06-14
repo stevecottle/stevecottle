@@ -78,9 +78,11 @@ I’m open to:
 - Pairing or mentoring sessions
 - Collaborating on open-source or mission-driven projects
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/stevecottle).
+---
+
+## You can find me on [LinkedIn](https://www.linkedin.com/in/stevecottle).
 
 ---
 
-## 🤸‍♀️ Thanks for stopping by!
+🤸‍♀️ Thanks for stopping by!
 
