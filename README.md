@@ -7,8 +7,8 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 ## 🧭 My Journey So Far
 
 - I started in **UX & Product Design**, helping teams at newspapers, banks, charities, and tech companies turn ideas into products through research, prototyping, and lean experimentation.
-- I founded **Funderbolt**, an innovation workshop, helping teams align, ideate, and take action with clarity.
-- I’ve added to my skill set with **software engineering** to bring ideas to life not just through design, but through code.
+- I founded an innovation workshop, helping teams align, ideate, and take action with clarity
+- I’ve added to my skill set with **software engineering** to bring ideas to life not just through design, but through code
 
 ---
 
@@ -53,7 +53,7 @@ I combine **design thinking**, **lean methodologies**, and **facilitation techni
 ---
 
 ## 💬 Ask me about:  
-- Moving from **design to development**
+- Moving from **design to engineering**
 - How to **streamline collaboration**  
 - Anything **Product innovation, proposition development** and  **lean experimentation**
 
@@ -62,7 +62,7 @@ I combine **design thinking**, **lean methodologies**, and **facilitation techni
 ## 🤯 Highlights from my past work:
 
 - **Nando’s** UK’s first NFC loyalty card  
-- **Pride in London** Most successful parade app
+- **Pride in London** Their most successful parade app
 - **Financial Times** Transition to the new ft.com  
 - **Fortnum & Mason** Revenue driving feature  
 - **HSBC** Current account onboarding journey  
