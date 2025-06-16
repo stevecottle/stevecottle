@@ -16,6 +16,7 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 
 - Writing **clean, purposeful code**
 - Cohesive **product, design and engineering**
+- Lean principles and experimentation mindset
 - Building tools and products that **facilitate meaningful outcomes**
 - Sharing the messy middle and the breakthroughs
 
