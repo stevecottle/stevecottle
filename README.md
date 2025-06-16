@@ -6,9 +6,9 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 
 ## 🧭 My Journey So Far
 
+- I’m adding to my skill set with **software engineering** to bring ideas to life not just through design, but through code
 - I started in **UX & Product Design**, helping teams at newspapers, banks, charities, and tech companies turn ideas into products through research, prototyping, and lean experimentation.
 - I founded an innovation workshop, helping teams align, ideate, and take action with clarity
-- I’ve added to my skill set with **software engineering** to bring ideas to life not just through design, but through code
 
 ---
 
