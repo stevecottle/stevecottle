@@ -44,10 +44,10 @@ Right now, I'm focused on:
 
 ## 💪 Experience:
 
-- Solving complex problems through structured innovation
-- Fostering team collaboration and alignment
-- Turning vague ideas into tangible, testable outcomes
-- Bringing strategy and delivery together with clarity
+- Bridging design and engineering — helping teams ship with clarity
+- Structured innovation — using lean tools to de-risk new ideas
+- Strong team habits — coaching teams to align and collaborate fast
+- Real-world delivery — from discovery through delivery
 
 I combine **design thinking**, **lean methodologies**, and **facilitation techniques** to help teams collaborate and cut through the noise.
 
