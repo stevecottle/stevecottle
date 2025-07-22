@@ -38,7 +38,7 @@ Right now, I'm focused on:
 - **Full-stack** web development
 - Writing solid, testable code in **Python** and **JavaScript**
 - Exploring mobile app development with **Kotlin**
-- Building projects that combine design thinking with engineering practice
+- Building projects that combine design thinking & software engineering
 
 ---
 
