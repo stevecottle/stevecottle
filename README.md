@@ -27,9 +27,9 @@ I'm a **strategic product thinker** turned **software engineer**, currently lear
 - **Programming Languages:** JavaScript, Python, Kotlin, SQL
 - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS , Bootstrap,  Jetpack Compose
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, RESTful APIs
-- **Testing:** Test-Driven Development (TDD), Pytest, Playwright
+- **Testing:** Test-Driven Development, Pytest, Playwright
 - **Tools:** Git & GitHub, Docker
-- **Practices:** Agile methodologies (Scrum, Kanban), Lean principles , Object-Oriented Programming (OOP), Experimentation mindset
+- **Practices:** Agile methodologies, Lean principles , Object-Oriented Programming, Experimentation mindset
 - **Product Design:** Lean UX, Value Proposition Design, Business Model Generation, UI Design, Lean Analytics, Design Sprints
 
 ---
